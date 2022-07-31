@@ -2,7 +2,7 @@ const offset = 0.1;
 let img;
 
 function preload() {
-  img = loadImage('bg.png');
+//   img = loadImage('bg.png');
 }
 
 function setup() {
